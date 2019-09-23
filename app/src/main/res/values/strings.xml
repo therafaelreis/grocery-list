@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Grocery List</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="product">Product</string>
+    <string name="action_add">Add</string>
+    <string name="action_done">Done</string>
+    <string name="msg_popup_delete_confirmation">Are you sure do you want to delete %s?</string>
+    <string name="msg_popup_delete_all_confirmation">Are you sure do you want to delete all product(s)?</string>
+    <string name="msg_yes">Yes</string>
+    <string name="msg_no">No</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sales_taxes">Sales Taxes:</string>
+    <string name="total">Total:</string>
+    <string name="error_required_field">%s is required!</string>
+    <string name="toolbar_title_review">Review Grocery</string>
+    <string name="toolbar_title_cart_list">Grocery List</string>
+    <string name="action_save">Save</string>
+    <string name="clear_products">Clear Products</string>
+    <string name="msg_all_product_delete_success">All products was deleted with success!</string>
+</resources>
